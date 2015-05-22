@@ -1,8 +1,8 @@
 /**
  * Author: hollyschinsky
- * twitter: @devgirfl
+ * twitter: @hussainqq
  * blog: devgirl.org
- * more tutorials: hollyschinsky.github.io
+ * more tutorials: hussainqq.github.io
  */
 app.controller('AppCtrl', function($scope, $cordovaPush, $cordovaDialogs, $cordovaMedia, $cordovaToast, ionPlatform, $http) {
     $scope.notifications = [];

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.ionic.keyboard/src/com.ionic.keyboard.iml" filepath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/com.ionic.keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.phonegap.plugins.PushPlugin/src/com.phonegap.plugins.PushPlugin.iml" filepath="$PROJECT_DIR$/plugins/com.phonegap.plugins.PushPlugin/src/com.phonegap.plugins.PushPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/nl.x-services.plugins.toast.iml" filepath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/nl.x-services.plugins.toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.device/src/org.apache.cordova.device.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/org.apache.cordova.device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.dialogs/src/org.apache.cordova.dialogs.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.dialogs/src/org.apache.cordova.dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.file/src/org.apache.cordova.file.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.file/src/org.apache.cordova.file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.media/src/org.apache.cordova.media.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.media/src/org.apache.cordova.media.iml" />
+    </modules>
+  </component>
+</project>
